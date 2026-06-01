@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Aleq 👋
 
-<!--
-**aleq456/aleq456** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# About Me
 
-Here are some ideas to get you started:
+- Student Developer
+- Interested in Python, C#, Robotics, and AI Enginnering
+- Learning ASP.NET,Software Development and AI Enginnering
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Technologies
+
+- Python
+- C#
+- C
+- SQL
+- Scratch
+- Robotics
+- Git & GitHub
+
+# Current Goals
+
+- Build more projects
+- Participate in hackathons
+- Prepare for internships
