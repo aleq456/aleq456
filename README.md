@@ -3,8 +3,8 @@
 ## About Me
 
 * Student Developer
-* Interested in Python, C#, Robotics, AI Engineering, and Software Development
-* Learning ASP.NET, Databases, and AI Technologies
+* Interested in Software Development, Robotics, and AI Engineering
+* Learning Python, C#, ASP.NET, SQL, and modern development tools
 * Passionate about building projects and participating in hackathons
 
 ## Technologies & Tools
@@ -20,6 +20,7 @@
 ## Achievements
 
 * 🏆 DigiCode 2025 – 2nd Place
+* 🎓 ACA Graduate
 * 🤖 Participated in robotics hackathons
 * 🔧 Built robotics and programming projects
 
@@ -28,9 +29,8 @@
 * Build real-world software projects
 * Strengthen Python and C# skills
 * Contribute to open-source projects
-* Prepare for internships and future opportunities
+* Gain real-world development experience
 
 ## Contact
 
-* GitHub: @aleq456
-* LinkedIn: www.linkedin.com/in/aleq-aleqsanyan-4280b5331
+GitHub: @aleq456
